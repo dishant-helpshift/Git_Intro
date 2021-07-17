@@ -1,9 +1,12 @@
 # Git,Github Introduction
 
 ## Questions :
-* **Q1. FizzBuzz Sequence**
+* **Q1. FizzBuzz Sequence** : 
+    * [**code01.py**](code01.py) 
+    * [**test01.py**](test01.py)
 * **Q2. Fibonnaci Sequence**
-* **Q3. Frequency Count**
+* **Q3. Frequency Count** : 
+    * [**test03.py**](test03.py)
 
 ## Tasks :
 * Create individual code and test file for each ques. 
